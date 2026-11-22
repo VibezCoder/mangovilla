@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mangovilla
+    name: mango-villa
     runtime: static
     buildCommand: ""
     staticPublishPath: .
