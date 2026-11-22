@@ -2,7 +2,6 @@ services:
   - type: web
     name: mango-villa
     runtime: static
-    buildCommand: ""
     staticPublishPath: .
     headers:
       - path: /assets/img/*
